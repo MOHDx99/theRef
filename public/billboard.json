@@ -1,0 +1,12 @@
+[
+{"type":"header","version":"5.2.0","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"theref2"},
+{"type":"table","name":"billboard","database":"theref2","data":
+[
+{"id":"6e55a9a4-8e58-496e-90a6-86267ed2bec6","storeId":"3897aefd-c266-496d-8e1f-319ae631529a","label":"mohd","imageUrl":"https:\/\/res.cloudinary.com\/dnej4qlne\/image\/upload\/v1698157345\/wpzmbvopje6hvs8osy1q.jpg","createdAt":"2023-10-24 14:22:30.743","updatedAt":"2023-10-24 14:32:46.248"},
+{"id":"ceda16e1-98c0-48c3-a10b-02e356ffc98e","storeId":"3897aefd-c266-496d-8e1f-319ae631529a","label":"mohd","imageUrl":"https:\/\/res.cloudinary.com\/dnej4qlne\/image\/upload\/v1698158956\/waoayx7qkkxmcvbxc5vg.jpg","createdAt":"2023-10-24 14:49:22.231","updatedAt":"2023-10-24 14:49:22.231"},
+{"id":"dbc0db1c-09e3-4adf-b923-d749b71e85cf","storeId":"3897aefd-c266-496d-8e1f-319ae631529a","label":"luffy","imageUrl":"https:\/\/res.cloudinary.com\/dnej4qlne\/image\/upload\/v1698160645\/qxyqtzqqeymhy1vqalig.png","createdAt":"2023-10-24 15:17:38.218","updatedAt":"2023-10-24 15:17:38.218"},
+{"id":"c25ec976-8d11-4256-bf13-1942059c939d","storeId":"8fced263-a6bf-4f27-9724-302636f287a5","label":"mohd_2","imageUrl":"https:\/\/res.cloudinary.com\/dnej4qlne\/image\/upload\/v1698160905\/f5wdvujieeuig8fwlaal.jpg","createdAt":"2023-10-24 15:21:54.813","updatedAt":"2023-10-24 15:21:54.813"}
+]
+}
+]
